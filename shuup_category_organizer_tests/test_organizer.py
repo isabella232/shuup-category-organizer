@@ -8,8 +8,8 @@
 import json
 
 import pytest
-from django.core.urlresolvers import reverse
 from django.test import Client
+from django.urls import reverse
 from shuup.admin.modules.categories.views.list import CategoryListView
 from shuup.core.models import Category
 from shuup.testing import factories
