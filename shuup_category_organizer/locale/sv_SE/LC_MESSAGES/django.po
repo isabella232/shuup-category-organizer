@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Panu Tulimäki <panu@shuup.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 23:50+0000\n"
+"PO-Revision-Date: 2019-03-12 23:51+0000\n"
+"Last-Translator: Panu Tulimäki <panu@shuup.com>, 2020\n"
+"Language-Team: Swedish (Sweden) (https://www.transifex.com/shuup/teams/55306/sv_SE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Category Organizer"
+msgstr "Kategoriorganisator"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Create New"
+msgstr "Skapa ny"
+
+msgid "Organize categories"
+msgstr "Organisera kategorier"
+
+msgid "Categories saved"
+msgstr "Kategorier sparade"
+
+msgid "Payload is missing from the request"
+msgstr "Nyttolast saknas i begäran"
+
+msgid "Category doesn't exist"
+msgstr "Kategori finns inte"
+
+msgid "Organize"
+msgstr "Organisera"
+
+msgid "Organize your categories in a easy way"
+msgstr "Organisera dina kategorier på ett enkelt sätt"
+
+msgid "Drag and drop categories to sort and change the hierarchy."
+msgstr "Dra och släpp kategorier för att sortera och ändra hierarkin."
+
+msgid ""
+"You can also edit, duplicate and the visibility of the categories through "
+"action buttons."
+msgstr ""
+"Du kan också redigera, duplicera och synligheten av kategorierna genom "
+"åtgärdsknappar."
+
+msgid "Make sure to Save to apply the changes."
+msgstr "Se till att Spara för att tillämpa ändringarna."
+
+msgid "Sorry, this view is not supported on small screen devices."
+msgstr "Tyvärr stöds inte denna vy på enheter med liten skärm."
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Duplicate"
+msgstr "Duplicera"
+
+msgid "Show in Menu"
+msgstr "Visa i menyn"
+
+msgid "Hide from Menu"
+msgstr "Göm från menyn"
